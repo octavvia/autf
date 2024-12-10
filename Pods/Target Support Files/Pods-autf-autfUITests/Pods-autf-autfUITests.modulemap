@@ -1,0 +1,6 @@
+framework module Pods_autf_autfUITests {
+  umbrella header "Pods-autf-autfUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
